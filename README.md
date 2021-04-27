@@ -13,9 +13,9 @@ These are the 5 topics:
 
 And the 3 bonus are:
 
-    a. Draw data (the cover image origin!)
-    b. A Dockerfile to smoothly run Faiss 
-    c. This github repo (this one is a little bit humble and kind of a circular reference 😂)
+  1. Draw data (the cover image origin!)
+  2. A Dockerfile to smoothly run Faiss 
+  3. This github repo (this one is a little bit humble and kind of a circular reference 😂)
 
 
 I publish this in https://deepnote.com/@tomas-bonfiglio/Enhance-your-clustering-projects-T176oVvEQZWXnoZZkusECA
