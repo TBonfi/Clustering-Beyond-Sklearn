@@ -1,6 +1,6 @@
 # Clustering-Beyond-Sklearn
 
-Update: I finished 2nd in the showcase competition of Deepnote, great success! :D https://community.deepnote.com/c/announcements/deepnote-publishing-competition-results
+Update: I finished 2nd in the showcase competition of Deepnote, great success! 🤩 https://community.deepnote.com/c/announcements/deepnote-publishing-competition-results
 
 Hey! how are you? I'm publishing this notebook to share some libraries, tips and tricks for clustering problems.
 
