@@ -1,13 +1,6 @@
 # Clustering-Beyond-Sklearn
 
-[<ProgressiveImage src="https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb">]("https://deepnote.com/buttons/launch-in-deepnote-small.svg")
-  sddsadsa
-  
-[<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">]("https://github.com/TBonfi/Clustering-Beyond-Sklearn/blob/main/notebook.ipynb")
-
 Update: I finished 2nd in the showcase competition of Deepnote, great success! 🤩 https://community.deepnote.com/c/announcements/deepnote-publishing-competition-results
-
-  [<ProgressiveImage src="github.com/TBonfi/Clustering-Beyond-Sklearn/blob/main/notebook.ipynb">](/static/buttons/view-in-deepnote-white.svg)
   
 Hey! how are you? I'm publishing this notebook to share some libraries, tips and tricks for clustering problems. I strongly advice, check it on Deepnote by clicking the badge!
 
