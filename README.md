@@ -1,6 +1,6 @@
 # Clustering-Beyond-Sklearn
 
-[<ProgressiveImage src="https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb">](/static/buttons/view-in-deepnote.svg)
+[<ProgressiveImage src="https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb">]("https://deepnote.com/buttons/launch-in-deepnote-small.svg")
   sddsadsa
   
 [<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">]("https://github.com/TBonfi/Clustering-Beyond-Sklearn/blob/main/notebook.ipynb")
