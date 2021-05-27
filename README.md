@@ -1,6 +1,8 @@
 # Clustering-Beyond-Sklearn
 
 [<ProgressiveImage src="https://github.com/TBonfi/Clustering-Beyond-Sklearn/blob/main/notebook.ipynb">](/static/buttons/view-in-deepnote.svg)
+  
+[<img src="https://deepnote.com/buttons/try-in-a-jupyter-notebook-white-small.svg">]("https://github.com/TBonfi/Clustering-Beyond-Sklearn/blob/main/notebook.ipynb")
 
 
 Update: I finished 2nd in the showcase competition of Deepnote, great success! 🤩 https://community.deepnote.com/c/announcements/deepnote-publishing-competition-results
